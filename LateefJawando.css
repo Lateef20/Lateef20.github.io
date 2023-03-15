@@ -1,0 +1,37 @@
+body{
+    font-family: 'Itim', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.about{
+    text-align: center;
+}
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+a:active{
+    text-decoration: none;
+}
+#headshot{
+    
+    max-width: 100%;
+}
+/** got a domain name from name.com but name only still dont have plcae to host
+*have a website ready 
+*now need free webhosting then to cofigure my domain name
+*done by updating dns server to tell domain name where server is being hosted
+just be apping githup ip adresses to manage dns setting 
+need to add 8 becasue github pages has 4 adresses and need to do for with host www and without(just domain name)
+could take 48hours
+www.lateefjawando.live is improperly configured
+Your site's DNS settings are using a custom subdomain, www.lateefjawando.live, that is set up as an A record. We recommend you change this to a CNAME record pointing to lateef20.github.io. For more information
+im having probelms trouble shooting impoper domain configuration
+now github domain doesnt work but for short period had website online 
+loading page of website should be called index 
+*
